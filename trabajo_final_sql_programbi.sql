@@ -1,0 +1,1 @@
+select*from #tabla_temporal_1
